@@ -32,6 +32,7 @@ Modeled after marketplaces like AbeBooks — listings emphasize condition gradin
 2. `npm install`
 3. `npm run dev`
 4. Visit `http://localhost:5173`
+![image alt](https://github.com/Atharva212428/shelflife-frontend-main/blob/b08ba9edd0bb8f24ecaa3739665eb9439b1aa59e/Screenshot%202026-09-26%20231432.png)
 
 ## API Endpoints
 - `GET /api/books` — list all books
